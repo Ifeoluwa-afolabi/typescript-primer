@@ -1,0 +1,32 @@
+{
+  "name": "typescript-primer",
+  "version": "1.0.0",
+  "description": "typescript in NodeJs Environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ifeoluwa-afolabi/typescript-primer.git"
+  },
+  "keywords": [
+    "Git",
+    "JavaScript",
+    "Node",
+    "Book-examples"
+  ],
+  "author": "Ifeoluwa Afolabi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ifeoluwa-afolabi/typescript-primer/issues"
+  },
+  "homepage": "https://github.com/Ifeoluwa-afolabi/typescript-primer#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.5",
+    "typescript": "^4.5.4"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
